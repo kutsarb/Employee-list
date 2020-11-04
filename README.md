@@ -25,7 +25,7 @@
   ## Usage
 
 
-  ![Readme Generator gif](ezgif.com-gif-maker(3).gif)
+  ![Employee list gif](ezgif.com-gif-maker(3).gif)
   This application can be used to display employee information without bieng able to be edited by just anyone on the front end
 
   ## License
